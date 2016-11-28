@@ -1,0 +1,2 @@
+webpackJsonp([0,3],{0:function(n,e,o){o(1);var t=o(28),c=o(29);document.body.appendChild(t()),document.body.appendChild(c("Click Me")),document.body.appendChild(c("Click"))},28:function(n,e){n.exports=function(n){var e=document.createElement("h1");return e.innerHTML=n||"hello world",e}},29:function(n,e){n.exports=function(n){var e=document.createElement("button");return e.innerHTML=n||"hello world",e.className="pure-button",e}}});
+//# sourceMappingURL=app.7b19a487b120640e837b.js.map
